@@ -1,5 +1,3 @@
-# Stock-Market-Data-Analysis
-Apple (AAPL) stock market analysis using Excel, Python, and Pandas.
 # Apple (AAPL) Stock Market Data Analysis
 
 ## Project Overview
